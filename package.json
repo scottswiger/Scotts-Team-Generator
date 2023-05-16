@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/scottswiger/Scotts-Team-Generator#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "inquirer": "^8.2.4",
-    "jest": "^29.4.3"
+    "jest": "^29.5.0"
   }
 }
